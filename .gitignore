@@ -1,0 +1,5 @@
+Data/
+.DS_Store
+__pycache__/
+.python-version
+*.pth
